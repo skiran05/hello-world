@@ -1,2 +1,2 @@
-<h1> Hello DEVOPS, Welcome to chennai central Railway !!! </h1>
+<h1> Hello DevOps, Welcome to chennai central Railway !!! </h1>
 
